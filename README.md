@@ -1,2 +1,3 @@
 # Fake-News-Detection
-To combat fake news, we'll use machine learning in Python. We'll download the dataset, import libraries, preprocess the data, and vectorize the news text. Then, we'll train and evaluate models to predict the authenticity of articles.
+
+To address the widespread issue of fake news dissemination, we will employ machine learning techniques in Python to classify news articles. We will start by downloading and importing the necessary datasets and libraries. Following this, we'll preprocess the data to ensure it's clean and structured. The news column will undergo specific preprocessing steps to prepare the text for vectorization, which will convert the textual data into numerical form. Finally, we'll train machine learning models on this data, evaluate their performance, and use them to predict the authenticity of new articles..
